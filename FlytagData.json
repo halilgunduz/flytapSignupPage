@@ -1,0 +1,30 @@
+{
+
+    "headers":[
+        {"header": "Benefits"},
+        {"header": "TAP Victoria Client Account"},
+        {"header": "TAP Client Account"}
+    ],
+
+    "tableHeaders": [ 
+        "Promotions adequate for your profile",
+        "Personalized notifications and alerts",
+        "Reserve flights faster",
+        "Reservation management and easy check-in",
+        "Reserved area",
+        "Exclusive products and offers to use miles on TAP flights",
+        "Earn miles in the Air and on Land from more than 150 partners",
+        "Exclusive campaigns and newsletters for Victoria Clients",
+        "Special discounts when you use Miles",
+        "Special birthday offers" ],
+
+    "secondLabels":[
+        "Salutation:",
+        "First name:",
+        "Last name:",
+        "Date of birth:"
+    ]
+
+
+
+}
